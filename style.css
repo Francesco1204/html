@@ -1,12 +1,26 @@
 body {
-	background-color:  #ffff99;
+	background-color:  #242582;
 	font-size: 1.5em;
+	color: white;
+}
+
+td {
+	color: white;
+}
+
+#m {
+	color: white;
+}
+
+#l {
+	color: #F64C72;
 }
 
 .laterale {
 	float: right;
 	width: 28%;
 	padding-left: 5px;
+	border: 0px;
 }
 
 table, th, td {
